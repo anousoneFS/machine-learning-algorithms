@@ -1,0 +1,154 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/Users/anousonefs/machine/AIwithML/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/08b1c49/
+1eyaJbWm4eFu85g7MPAKIJDTlcG	.idea/workspace.xml	/^  <component name="ProjectId" id="1eyaJbWm4eFu85g7MPAKIJDTlcG" \/>$/;"	i
+455ef356-d462-4b4b-8dff-d6b87cc8c398	.idea/workspace.xml	/^      <changelist id="455ef356-d462-4b4b-8dff-d6b87cc8c398" name="Default Changelist" comment=""/;"	i
+455ef356-d462-4b4b-8dff-d6b87cc8c398	.idea/workspace.xml	/^    <list default="true" id="455ef356-d462-4b4b-8dff-d6b87cc8c398" name="Default Changelist" com/;"	i
+AI	chapter2/ox.py	/^def AI():$/;"	f
+CNN	chapter4/CNN.py	/^def CNN(Xtrain, Ytrain):$/;"	f
+Currentbest	chapter4/kNN_kdtree.py	/^class Currentbest:$/;"	c
+Default	.idea/workspace.xml	/^    <task active="true" id="Default" summary="Default task">$/;"	i
+FindS	chapter3/FindS.py	/^def FindS(X, T):$/;"	f
+H	chapter3/ListElim.py	/^    H, t = ListElim(X, T)     # H = Hypothesis, t = target$/;"	v
+K	chapter4/CNN.py	/^    K = range(1, len(Prototypes) + 1)$/;"	v
+K	chapter4/kNN_iris.py	/^    K = range(1, len(Xtrain)+1)$/;"	v
+K	chapter4/kNN_kdtree.py	/^    K = range(1, len(Xtrain) + 1)$/;"	v
+K	test/chapter4/KNN_iris.py	/^    K = len(Xtrain)$/;"	v
+K	test/chapter4/KNN_iris.py	/^    K = np.argmax(a) + 1$/;"	v
+KNN	test/chapter4/KNN.py	/^def KNN(Xtrain, Ytrain, Xtest, K=1):$/;"	f
+ListElim	chapter3/ListElim.py	/^def ListElim(X, T):$/;"	f
+NN_kdtree2	chapter4/kNN_kdtree.py	/^def NN_kdtree2(X, node, currentbest, k):$/;"	f
+Node	chapter4/kdtree.py	/^class Node:$/;"	c
+O	chapter2/ox.py	/^O = []$/;"	v
+O	chapter2/test.py	/^O = [1, 2, 6, 8]$/;"	v
+Prototypes	chapter4/CNN.py	/^    Prototypes = CNN(Xtrain, Ytrain)$/;"	v
+S	chapter3/FindS.py	/^    S = FindS(X, T)$/;"	v
+T	chapter3/FindS.py	/^    T = ['Yes', 'Yes', 'No', 'Yes']$/;"	v
+T	chapter3/ListElim.py	/^    T = ['Yes', 'Yes', 'No', 'Yes']$/;"	v
+V	chapter2/test.py	/^V = [-100] * 9$/;"	v
+X	chapter2/ox.py	/^X = []$/;"	v
+X	chapter2/test.py	/^X = [3, 4, 5]$/;"	v
+X	chapter3/FindS.py	/^    X = [['Sunny', 'Warm', 'Normal', 'Strong', 'Warm', 'Same'],$/;"	v
+X	chapter3/ListElim.py	/^    X = [['Sunny', 'Warm', 'Normal', 'Strong', 'Warm', 'Same'],$/;"	v
+X	test.py	/^X = np.array([3, 4, 22, 5])$/;"	v
+Xtest	chapter4/CNN.py	/^    Xtrain, Ytrain, Xtest, Ytest = iris_dataset.load(split_train_test=0.5)$/;"	v
+Xtest	chapter4/kNN_iris.py	/^    Xtrain, Ytrain, Xtest, Ytest = iris_dataset.load(split_train_test=0.6)$/;"	v
+Xtest	chapter4/kNN_kdtree.py	/^    Xtrain, Ytrain, Xtest, Ytest = Xtrain[:5], Ytrain[:5], Xtest[:5], Ytest[:5]$/;"	v
+Xtest	chapter4/kNN_kdtree.py	/^    Xtrain, Ytrain, Xtest, Ytest = iris_dataset.load(split_train_test=0.5)$/;"	v
+Xtest	chapter4/kdtree.py	/^    Xtrain, Ytrain, Xtest, Ytest = iris_dataset.load(split_train_test=0.5)$/;"	v
+Xtest	chapter4/knn.py	/^    Xtest = np.array([[10, 9]])$/;"	v
+Xtest	test/chapter4/KNN.py	/^    Xtest = np.array([[5.4, 3.4, 1.7, 0.2]])$/;"	v
+Xtest	test/chapter4/KNN_iris.py	/^    Xtrain, Ytrain, Xtest, Ytest = readData(splitdata=0.5)$/;"	v
+Xtrain	chapter4/CNN.py	/^    Xtrain, Ytrain, Xtest, Ytest = iris_dataset.load(split_train_test=0.5)$/;"	v
+Xtrain	chapter4/kNN_iris.py	/^    Xtrain, Ytrain, Xtest, Ytest = iris_dataset.load(split_train_test=0.6)$/;"	v
+Xtrain	chapter4/kNN_kdtree.py	/^    Xtrain, Ytrain, Xtest, Ytest = Xtrain[:5], Ytrain[:5], Xtest[:5], Ytest[:5]$/;"	v
+Xtrain	chapter4/kNN_kdtree.py	/^    Xtrain, Ytrain, Xtest, Ytest = iris_dataset.load(split_train_test=0.5)$/;"	v
+Xtrain	chapter4/kdtree.py	/^    Xtrain, Ytrain, Xtest, Ytest = iris_dataset.load(split_train_test=0.5)$/;"	v
+Xtrain	chapter4/knn.py	/^    Xtrain = np.array([[1, 2], [2, 2], [2, 1], [8, 9], [10, 8], [9, 10]])$/;"	v
+Xtrain	test/chapter4/CNN.py	/^Xtrain = np.array([[1, 3], [2, 5], [3, 3], [3, 4],$/;"	v
+Xtrain	test/chapter4/KNN.py	/^    Xtrain = np.array([[5.1, 3.5, 1.4, 0.2], [4.9, 3.0, 1.4, 0.2], [5.7, 4.4, 1.5, 0.4], [5.1, 3/;"	v
+Xtrain	test/chapter4/KNN_iris.py	/^    Xtrain, Ytrain, Xtest, Ytest = readData(splitdata=0.5)$/;"	v
+Ytest	chapter4/CNN.py	/^    Xtrain, Ytrain, Xtest, Ytest = iris_dataset.load(split_train_test=0.5)$/;"	v
+Ytest	chapter4/kNN_iris.py	/^    Xtrain, Ytrain, Xtest, Ytest = iris_dataset.load(split_train_test=0.6)$/;"	v
+Ytest	chapter4/kNN_kdtree.py	/^    Xtrain, Ytrain, Xtest, Ytest = Xtrain[:5], Ytrain[:5], Xtest[:5], Ytest[:5]$/;"	v
+Ytest	chapter4/kNN_kdtree.py	/^    Xtrain, Ytrain, Xtest, Ytest = iris_dataset.load(split_train_test=0.5)$/;"	v
+Ytest	chapter4/kdtree.py	/^    Xtrain, Ytrain, Xtest, Ytest = iris_dataset.load(split_train_test=0.5)$/;"	v
+Ytest	test/chapter4/KNN_iris.py	/^    Xtrain, Ytrain, Xtest, Ytest = readData(splitdata=0.5)$/;"	v
+Ytrain	chapter4/CNN.py	/^    Xtrain, Ytrain, Xtest, Ytest = iris_dataset.load(split_train_test=0.5)$/;"	v
+Ytrain	chapter4/kNN_iris.py	/^    Xtrain, Ytrain, Xtest, Ytest = iris_dataset.load(split_train_test=0.6)$/;"	v
+Ytrain	chapter4/kNN_kdtree.py	/^    Xtrain, Ytrain, Xtest, Ytest = Xtrain[:5], Ytrain[:5], Xtest[:5], Ytest[:5]$/;"	v
+Ytrain	chapter4/kNN_kdtree.py	/^    Xtrain, Ytrain, Xtest, Ytest = iris_dataset.load(split_train_test=0.5)$/;"	v
+Ytrain	chapter4/kdtree.py	/^    Xtrain, Ytrain, Xtest, Ytest = iris_dataset.load(split_train_test=0.5)$/;"	v
+Ytrain	chapter4/knn.py	/^    Ytrain = np.array([1, 1, 1, 2, 2, 2])$/;"	v
+Ytrain	test/chapter4/CNN.py	/^Ytrain = np.array(['A', 'A', 'A', 'A', 'B', 'B', 'B', 'B'])$/;"	v
+Ytrain	test/chapter4/KNN.py	/^    Ytrain = np.array(['setosa', 'setosa', 'setosa', 'setosa', 'versicolor', 'versicolor', 'vers/;"	v
+Ytrain	test/chapter4/KNN_iris.py	/^    Xtrain, Ytrain, Xtest, Ytest = readData(splitdata=0.5)$/;"	v
+Ztest	chapter4/CNN.py	/^        Ztest = kNN(Xtrain[Prototypes], Ytrain[Prototypes], Xtest, k)$/;"	v
+Ztest	chapter4/CNN.py	/^    Ztest = kNN(Xtrain[Prototypes], Ytrain[Prototypes], Xtest, k)$/;"	v
+Ztest	chapter4/kNN_iris.py	/^        Ztest = kNN(Xtrain, Ytrain, Xtest, k)$/;"	v
+Ztest	chapter4/kNN_iris.py	/^    Ztest = kNN(Xtrain, Ytrain, Xtest, k)$/;"	v
+Ztest	chapter4/kNN_kdtree.py	/^        Ztest = kNN_kdtree(node, Xtest, k)$/;"	v
+Ztest	test/chapter4/KNN_iris.py	/^        Ztest = KNN(Xtrain, Ytrain, Xtest, K=k)$/;"	v
+__init__	chapter4/kNN_kdtree.py	/^    def __init__(self, dim):$/;"	m	class:Currentbest
+a	chapter2/test.py	/^a = [4, 3, 3, 2]$/;"	v
+a	chapter4/iris_dataset.py	/^    a, b, c, d = load(split_train_test=0.5)$/;"	v
+a	test/chapter4/KNN_iris.py	/^    a = []$/;"	v
+a	test/chapter4/iris_dataset.py	/^    a, b = readData()$/;"	v
+axis	chapter4/kdtree.py	/^    axis = -1$/;"	v	class:Node
+b	chapter4/iris_dataset.py	/^    a, b, c, d = load(split_train_test=0.5)$/;"	v
+b	test/chapter4/iris_dataset.py	/^    a, b = readData()$/;"	v
+buildtree	chapter4/kdtree.py	/^    def buildtree(node, parent):$/;"	f	function:node2tree	file:
+c	chapter4/iris_dataset.py	/^    a, b, c, d = load(split_train_test=0.5)$/;"	v
+calSOX	chapter2/ox.py	/^def calSOX(O, X):$/;"	f
+checkWin	chapter2/ox.py	/^def checkWin(P):$/;"	f
+d	chapter4/iris_dataset.py	/^    a, b, c, d = load(split_train_test=0.5)$/;"	v
+d	chapter4/kNN_kdtree.py	/^    d = []$/;"	v	class:Currentbest
+display	chapter2/ox2.py	/^def display():$/;"	f
+displayOX	chapter2/ox.py	/^def displayOX():$/;"	f
+evalOX	chapter2/ox.py	/^def evalOX(O, X):$/;"	f
+expand	chapter3/FindS.py	/^def expand(X, S):$/;"	f
+isConsist	chapter3/ListElim.py	/^def isConsist(X, T, h, t):$/;"	f
+j	chapter2/test.py	/^j = ["-"] * 9$/;"	v
+k	chapter4/CNN.py	/^    k = rate.index(maxrate) + 1$/;"	v
+k	chapter4/kNN_iris.py	/^    k = rate.index(max(rate)) + 1$/;"	v
+kNN	chapter4/knn.py	/^def kNN(Xtrain, Ytrain, Xtest, k=5):$/;"	f
+kNN_kdtree	chapter4/kNN_kdtree.py	/^def kNN_kdtree(node, X, k=1):$/;"	f
+kdtree	chapter4/kdtree.py	/^def kdtree(X, label):$/;"	f
+kdtree2	chapter4/kdtree.py	/^def kdtree2(X):$/;"	f
+left	chapter4/kdtree.py	/^    left = None$/;"	v	class:Node
+load	chapter4/iris_dataset.py	/^def load($/;"	f
+maxrate	chapter4/CNN.py	/^    maxrate = max(rate)$/;"	v
+med	chapter4/kdtree.py	/^    med = None$/;"	v	class:Node
+move	chapter2/ox.py	/^        move = int(input("Bad move: Choose position [1-9]: ")) - 1$/;"	v
+move	chapter2/ox.py	/^    move = int(input("Choose position [1-9]: ")) - 1$/;"	v
+myinput	chapter2/ox2.py	/^def myinput():$/;"	f
+node	chapter4/kNN_kdtree.py	/^    node = kdtree(Xtrain, Ytrain[:5])$/;"	v
+node	chapter4/kdtree.py	/^    node = kdtree(Xtrain[:5], Ytrain[:5])$/;"	v
+node2tree	chapter4/kdtree.py	/^def node2tree(node):$/;"	f
+np	chapter2/ox.py	/^import numpy as np$/;"	I	nameref:module:numpy
+np	chapter3/ListElim.py	/^import numpy as np$/;"	I	nameref:module:numpy
+np	chapter4/CNN.py	/^import numpy as np$/;"	I	nameref:module:numpy
+np	chapter4/iris_dataset.py	/^import numpy as np$/;"	I	nameref:module:numpy
+np	chapter4/kNN_iris.py	/^import numpy as np$/;"	I	nameref:module:numpy
+np	chapter4/kNN_kdtree.py	/^import numpy as np$/;"	I	nameref:module:numpy
+np	chapter4/kdtree.py	/^import numpy as np$/;"	I	nameref:module:numpy
+np	chapter4/knn.py	/^import numpy as np$/;"	I	nameref:module:numpy
+np	chapter5/treeplot.py	/^import numpy as np$/;"	I	nameref:module:numpy
+np	test.py	/^import numpy as np$/;"	I	nameref:module:numpy
+np	test/chapter4/CNN.py	/^import numpy as np$/;"	I	nameref:module:numpy
+np	test/chapter4/KNN.py	/^import numpy as np$/;"	I	nameref:module:numpy
+np	test/chapter4/KNN_iris.py	/^import numpy as np$/;"	I	nameref:module:numpy
+np	test/chapter4/iris_dataset.py	/^import numpy as np$/;"	I	nameref:module:numpy
+ox	chapter2/ox2.py	/^ox = ["-", "-", "-", "-", "-", "-", "-", "-", "-"]$/;"	v
+ox2	chapter2/ox2.py	/^ox2 = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]$/;"	v
+pd	chapter4/iris_dataset.py	/^import pandas as pd$/;"	I	nameref:module:pandas
+pd	test/chapter4/iris_dataset.py	/^import pandas as pd$/;"	I	nameref:module:pandas
+plotdata	chapter4/kNN_iris.py	/^def plotdata(Xtrain, Ytrain, Xtest=[], Ytest=[], Ztest=[]):$/;"	f
+plt	chapter4/CNN.py	/^    import matplotlib.pyplot as plt$/;"	I	nameref:module:matplotlib.pyplot
+plt	chapter4/kNN_iris.py	/^import matplotlib.pyplot as plt$/;"	I	nameref:module:matplotlib.pyplot
+plt	chapter4/kNN_kdtree.py	/^    import matplotlib.pyplot as plt$/;"	I	nameref:module:matplotlib.pyplot
+plt	chapter5/treeplot.py	/^from matplotlib import pyplot as plt$/;"	x	nameref:unknown:pyplot
+plt	test/chapter4/CNN.py	/^import matplotlib.pyplot as plt$/;"	I	nameref:module:matplotlib.pyplot
+plt	test/chapter4/KNN.py	/^import matplotlib.pyplot as plt$/;"	I	nameref:module:matplotlib.pyplot
+rate	chapter4/CNN.py	/^    rate = []$/;"	v
+rate	chapter4/kNN_iris.py	/^    rate = []$/;"	v
+rate	chapter4/kNN_kdtree.py	/^    rate = []$/;"	v
+readData	test/chapter4/iris_dataset.py	/^def readData(path = "\/Users\/anousoneworlakoumman\/Desktop\/AIwithML\/dataset\/iris.csv", split/;"	f
+result	chapter4/knn.py	/^    result = kNN(Xtrain, Ytrain, Xtest)$/;"	v
+right	chapter4/kdtree.py	/^    right = None$/;"	v	class:Node
+t	chapter3/ListElim.py	/^    H, t = ListElim(X, T)     # H = Hypothesis, t = target$/;"	v
+tree	chapter4/kNN_kdtree.py	/^    tree = node2tree(node)$/;"	v
+tree	chapter4/kdtree.py	/^    tree = node2tree(node)$/;"	v
+treeplot	chapter5/treeplot.py	/^def treeplot($/;"	f
+win	chapter2/ox.py	/^win = [$/;"	v
+win	chapter2/test.py	/^win = [$/;"	v
+x	chapter2/ox2.py	/^x = []$/;"	v
+x	chapter2/test.py	/^x = [True, True]$/;"	v
